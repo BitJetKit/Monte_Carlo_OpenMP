@@ -1,4 +1,4 @@
-# Monte_Carlo_OpenMP
+Monte_Carlo_OpenMP
 C Software Application
 File: Monte_carlo_OpenMP
 Purpose: Parallelize Monte_carlo method utilizing OpenMP library
